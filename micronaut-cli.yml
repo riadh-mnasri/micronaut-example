@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.wehightech.riadh.
+---
+testFramework: spek
+sourceLanguage: kotlin
